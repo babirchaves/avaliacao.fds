@@ -1,0 +1,50 @@
+ 
+ body{background-color: rgb(249, 234, 236);}
+ h1{color:rgb(243, 32, 67);font-family: Arial, Helvetica, sans-serif;font-size:50px; text-align: center;}
+  p{font-size: 27px; text-align: justify; font-family: Arial, Helvetica, sans-serif;}
+  .minhalista li{margin-bottom: 25px; font-size: 25px;}
+ .hobbies{margin-top: 80px; }
+   
+ .ferrari{border-radius: 15px; display: block; margin: auto;}
+ .equipe{text-align: center; font-family: Arial, Helvetica, sans-serif;font-size: 24px;margin-top: 80px; }
+ .paises{text-align: center;margin-top: 80px; font-family: Arial, Helvetica, sans-serif ;font-size: 24px;}
+ .obs{text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 15px;}
+
+ table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 30px auto;
+  background-color: #ffe6f0; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color: #333;
+  box-shadow: 0 0 10px #f5b6c5;}
+
+th, td {
+  border: 1px solid #f28db7; 
+  padding: 12px;
+  text-align: center;}
+
+thead {background-color: #f28db7; 
+  color: white;}
+
+tr:nth-child(even) {
+  background-color: #ffeef5;}
+ .perfil{text-align: center;}
+
+ .sitef1{color:blue; text-decoration: none;}
+ .sitef1:hover{color:rgb(236, 35, 69)}
+
+ .linkedin1{color:blue; text-decoration: none;}
+ .linkedin1:hover{color:rgb(236, 35, 69)}
+
+ #mensagem{font-family: Arial, Helvetica, sans-serif;color: red;}
+ #mensagem{
+    border: 2px solid #ff69b4;
+    padding: 10px;
+     border-radius: 8px; 
+      background-color: #ffd6e3;
+       width: fit-content;
+       margin: 20px auto; }
+
+#clique{background-color: #f28db7;font-size: 18px;border-radius: 8px;}
